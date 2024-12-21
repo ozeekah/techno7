@@ -1,0 +1,8 @@
+body{
+    background-image:linear-gradient(blue,white);
+    background-repeat: no-repeat;
+    text-transform: capitalize;
+}
+form{
+    margin-top: 150px;
+}

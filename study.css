@@ -1,0 +1,12 @@
+body{
+    background-image:linear-gradient(blue,white);
+    background-repeat: no-repeat;
+    text-transform: capitalize;
+}
+fieldset{
+    width: 50% 50% ;
+    margin-top: 150px;
+}
+.a,.e{
+    margin-top: 10px;
+}
